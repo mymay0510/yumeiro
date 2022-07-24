@@ -1,2 +1,0 @@
-# yumeiro
-kakaotalk chapture
